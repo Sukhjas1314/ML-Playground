@@ -56,9 +56,9 @@ Upload Data → Select Target → Configure Preprocessing → Choose Model → T
 (Refer the app)
 https://ml-playground-o4et5sq2trbad2eawaoxmu.streamlit.app
 
-```
+
 <img width="1439" height="777" alt="Screenshot 2026-03-28 at 1 24 52 PM" src="https://github.com/user-attachments/assets/2a8fa5a7-b036-4374-a225-5c9fd9ef5407" />
-```
+
 
 ---
 
