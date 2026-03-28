@@ -53,26 +53,11 @@ Upload Data → Select Target → Configure Preprocessing → Choose Model → T
 
 ## 🖥️ App Preview
 
+(Refer the app)
+https://ml-playground-o4et5sq2trbad2eawaoxmu.streamlit.app
+
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  🤖  ML Playground                                           │
-│                                                              │
-│  ┌─────────────────────┐   ┌──────────────────────────────┐ │
-│  │  📂  Upload CSV     │   │  📊  Model Evaluation        │ │
-│  │                     │   │                              │ │
-│  │  Sidebar Controls:  │   │  Accuracy:  0.94             │ │
-│  │  • Target Column    │   │  F1 Score:  0.93             │ │
-│  │  • Problem Type     │   │                              │ │
-│  │  • Encoding         │   │  Confusion Matrix ↓          │ │
-│  │  • Scaling          │   │  [[ 45   3 ]                 │ │
-│  │  • Test Size Slider │   │   [  2  50 ]]                │ │
-│  │  • 🚀 Train Model   │   │                              │ │
-│  └─────────────────────┘   └──────────────────────────────┘ │
-│                                                              │
-│  ┌──────────────────────────────────────────────────────┐   │
-│  │  🔮  Live Prediction  →  Input features → Get output │   │
-│  └──────────────────────────────────────────────────────┘   │
-└──────────────────────────────────────────────────────────────┘
+<img width="1439" height="777" alt="Screenshot 2026-03-28 at 1 24 52 PM" src="https://github.com/user-attachments/assets/2a8fa5a7-b036-4374-a225-5c9fd9ef5407" />
 ```
 
 ---
