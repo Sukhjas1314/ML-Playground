@@ -30,9 +30,9 @@
 
 **ML Playground** is an end-to-end, interactive ML experimentation tool that removes the friction of writing boilerplate code. Whether you're a beginner exploring machine learning or a practitioner doing quick dataset experiments — this app lets you go from raw CSV to trained model in minutes.
 
-```
+
 Upload Data → Select Target → Configure Preprocessing → Choose Model → Train → Evaluate → Predict
-```
+
 
 ---
 
